@@ -135,6 +135,8 @@ return [
         ],
     ],
 
+    'phone' => 'The :attribute format is invalid',
+
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Attributes
